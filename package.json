@@ -8,6 +8,6 @@
     "preview": "iles preview --open"
   },
   "dependencies": {
-    "iles": "^0.9.2"
+    "iles": "0.10.0-beta.1"
   }
 }
